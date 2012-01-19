@@ -67,6 +67,7 @@
 				sopa.appendChild(close);
 				
 				var jsonp=document.createElement("script");
+				jsonp.setAttribute("type", "text/javascript")
 				jsonp.src="http://www.makinguse.com/sopawall/getTweets.php";
 				body.appendChild(jsonp);
 				
