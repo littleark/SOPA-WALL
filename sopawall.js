@@ -53,7 +53,7 @@
 				var twitter=document.createElement("a");
 				twitter.id="sopatwitter";
 				twitter.className="top";
-				twitter.href="https://twitter.com/intent/tweet?hashtags=SOPA&original_referer="+(encodeURI(location.href))+"&source=tweetbutton&text="+(encodeURI("SOPA Wall - Auto-censor your website through tweets against SOPA. Say no to SOPA and PIPA"))+"&url=http%3A%2F%2Fwww.makinguse.com&via=littleark";
+				twitter.href="https://twitter.com/intent/tweet?hashtags=SOPA&original_referer="+(encodeURI(location.href))+"&source=tweetbutton&text="+(encodeURI("SOPA Wall - Auto-censor your website through tweets against SOPA. Say no to SOPA and PIPA"))+"&url="+(encodeURI("https://github.com/littleark/SOPA-WALL"))+"&via=littleark";
 				twitter.innerHTML="tweet me!";
 				twitter.target="blank_";
 				sopa.appendChild(twitter);
