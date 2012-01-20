@@ -12,4 +12,5 @@ See a live example of Sopa Wall at:
 
 http://www.makinguse.com
 
-Feel free to download, fork and modify SOPA WALL.
+SOPA WALL is a super simple experiment. Nothing fancy.
+Feel free to download, fork and modify it.
