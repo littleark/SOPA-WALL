@@ -1,5 +1,5 @@
 //     sopawall.js
-//     (c) 2012 Thomas Fuchs
+//     (c) 2012 Carlo Zapponi
 //     Use it, change it, modify it...do whatever you want with this piece of code
 (function(){
 		try {
