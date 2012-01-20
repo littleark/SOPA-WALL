@@ -2,8 +2,10 @@ SOPA WALL is an embeddable auto-censorship wall made of tweets protesting agains
 
 You can easily add SOPA WALL to your website by adding these lines of code to any web page:
 
-<script src="https://github.com/littleark/SOPA-WALL/raw/master/sopawall.min.js" type="text/javascript" charset="utf-8"></script>
+<script src="http://www.makinguse.com/sopawall/sopawall.min.js"></script>
 
 See a live example of Sopa Wall at:
 
-http://www.makinguse.com
+http://www.makinguse.como
+
+Feel free to download, fork and modify SOPA WALL.
