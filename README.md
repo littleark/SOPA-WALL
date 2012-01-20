@@ -10,6 +10,6 @@ You can easily add SOPA WALL to your website by adding these lines of code to an
 
 See a live example of Sopa Wall at:
 
-http://www.makinguse.como
+http://www.makinguse.com
 
 Feel free to download, fork and modify SOPA WALL.
