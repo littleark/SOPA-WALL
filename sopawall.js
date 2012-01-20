@@ -61,7 +61,7 @@
 					var twitter=document.createElement("a");
 					twitter.id="sopatwitter";
 					twitter.className="top";
-					twitter.href="https://twitter.com/intent/tweet?hashtags=SOPA&original_referer="+(encodeURI(location.href))+"&source=tweetbutton&text="+(encodeURI("SOPA Wall - Auto-censor your website through tweets against SOPA. Say no to SOPA and PIPA"))+"&url="+(encodeURI("https://github.com/littleark/SOPA-WALL"))+"&via=littleark";
+					twitter.href="https://twitter.com/intent/tweet?hashtags=SOPA&original_referer="+(encodeURI(location.href))+"&source=tweetbutton&text="+(encodeURI(location.href+" has been auto-censored with SOPA WALL. Say no to SOPA and PIPA"))+"&url="+(encodeURI("https://github.com/littleark/SOPA-WALL"))+"&via=littleark";
 					twitter.innerHTML="tweet me!";
 					twitter.target="blank_";
 					sopa.appendChild(twitter);
